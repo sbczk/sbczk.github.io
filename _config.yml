@@ -1,0 +1,15 @@
+# Welcome to Jekyll!
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Build settings
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+# Site settings
+title: sbczk.github.io
+email: sbczk@yahoo.com
+url: https://sbczk.github.io
